@@ -71,7 +71,7 @@ Don't go AFK next time 😉
     BANNED = """
 **Sorry you're banned 💀**
 
-Report this at @EDM115_chat if you think this is a mistake, I may unban you
+Report this at @GenXNano if you think this is a mistake, I may unban you
     """
 
     NEW_USER_BAD = """
@@ -102,7 +102,7 @@ This may take a while, go grab a coffee ☕️
 {}
 {}
 
-**Powered by @EDM115bots**
+**Bot by @GenXNano**
     """
 
     PROCESSING = "**Processing…**"
@@ -123,7 +123,7 @@ This may take a while, go grab a coffee ☕️
 
     LOG_CHECKED = "Log channel alright"
 
-    BOT_RUNNING = "Bot is running now ! Join @EDM115bots"
+    BOT_RUNNING = "Bot is running now !"
 
     WRONG_LOG = """
 Error : the provided **LOGS_CHANNEL** (`{}`) is incorrect
@@ -159,7 +159,7 @@ Select the extraction mode for that merged file 👀
     EXT_CAPTION = """
 `{}`
 
-Successfully extracted by @unzip_edm115bot 🥰
+Successfully extracted 🥰
     """
 
     URL_UPLOAD = """
@@ -175,7 +175,7 @@ An error happened for `{}` 😕
 **Error type :** `{}`
 **Error message :** `{}`
 
-Please report this at @EDM115_chat if you think this is a serious error
+Please report this at @GenXNano if you think this is a serious error
     """
 
     REPORT_TEXT = """
@@ -208,7 +208,7 @@ have been saved from the URL
 
 **⚠ IN ALL CASES ⚠**, please send **/clean**, else you couldn’t send any other task 🙂🔫 (may be fixed in the future)
 
-Please report this at @EDM115_chat if you think this is a serious error
+Please report this at @GenXNano if you think this is a serious error
     """
 
     HOW_MANY_UPLOADED = "`{}` files were extracted from that archive"
@@ -251,7 +251,7 @@ Hi **{}** 👋, I'm **Unarchiver bot** 🥰
 
 I can extract archives like `zip`, `rar`, `tar`, …
 
-**Made with ❤️ by @EDM115bots**
+**Made with ❤️ by @GenXNano**
 
 **/donate** if you can 🥺
     """
@@ -279,7 +279,7 @@ I can extract archives like `zip`, `rar`, `tar`, …
 
 **• I wanna have help 🥺**
 
-    PM me at **@EDM115** or join the chat **@EDM115_chat**
+    PM me at **@GenXNano**
     """
 
     ABOUT_TXT = """
@@ -287,11 +287,9 @@ I can extract archives like `zip`, `rar`, `tar`, …
 
 • **Language :** [Python 3.11.5](https://www.python.org/)
 • **Framework :** [Pyrogram 2.0.106](https://pyrogram.org/)
-• **Source code :** [EDM115/unzip-bot](https://github.com/EDM115/unzip-bot)
-• **Developer :** [EDM115](https://github.com/EDM115)
+• **Developer :** [Nano](GenXNano.t.me)
 
-**[Rate me ⭐](https://t.me/BotsArchive/2705)**
-Made with ❤️ by **@EDM115bots**
+Made with ❤️ by **@GenXNano**
     """
 
     DONATE_TEXT = """
@@ -303,11 +301,7 @@ So if you can, donate :)
 It helps out a ton, covers the costs (hosting, updating, … 👨‍💻)
 
 --How ?--
-• **[Paypal](https://www.paypal.me/8EDM115)**
-• **[GitHub Sponsors](https://github.com/sponsors/EDM115)**
-• **[Directly in Telegram](https://t.me/EDM115bots/544)**
-• **[BuyMeACoffee](https://www.buymeacoffee.com/edm115)**
-• **[Send cryptos (not recommended)](https://edm115.shadd.eu.org/)**
+Dm me : @GenXNano
 
 Thanks for your contribution 😊
 
@@ -335,7 +329,7 @@ Here's how : Become a VIP user and benefit from extra perks !
 **How to become a VIP ?**
 1) Send **/pay** to the bot
 2) Choose your subscription
-3) Send a screenshot of your payment to **@EDM115**
+3) Send a screenshot of your payment to **@GenXNano**
 4) Enjoy your VIP perks !
 
 **What happens when my subscription ends ?**
@@ -473,7 +467,7 @@ Do you really want to delete your thumbnail ?
 
 `{}`
 
-Please report this at @EDM115_chat if you think this is a serious error
+Please report this at @GenXNano if you think this is a serious error
     """
 
     CANCELLED_TXT = "**{} ✅**"
@@ -529,7 +523,7 @@ That's not an archive 💀
 
     DEF_NOT_AN_ARCHIVE = """
 This file is NOT an archive 😐
-If you believe it's an error, send the file to **@EDM115**
+If you believe it's an error, send the file to **@GenXNano**
     """
 
     PROCESSING2 = "`Processing… ⏳`"
@@ -538,7 +532,7 @@ If you believe it's an error, send the file to **@EDM115**
 
     ERR_DL = "Error on download : {}"
 
-    CANT_DL_URL = "**Sorry, I can't download that URL 😭 Try to @transload it**"
+    CANT_DL_URL = "**Sorry, I can't download that URL**"
 
     GIVE_ARCHIVE = "Give me an archive to extract 😐"
 
@@ -557,7 +551,7 @@ Use the **/merge** command
     QUERY_PARSE_ERR = """
 Fatal query parsing error 💀
 
-Please contact @EDM115_chat with details and screenshots
+Please contact @GenXNano with details and screenshots
     """
 
     GIVE_NEW_NAME = """
